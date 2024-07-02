@@ -7,9 +7,3 @@ Project Prerequisites
 
 To work on to do list in python, basic understanding of python programming language and Tkinter, especially Tkinter widgets would be helpful. But don’t worry as this article will provide an explanation of every line of code as we go about building this python project. You are free to choose any IDE of your choice (Pycharm, VSCode, etc.).
 
-Steps to develop To-do List Project
-
-1.Import the Tkinter library.
-2.Create to-do list application window.
-3.Create application layout.
-4.Define to do list functions.
