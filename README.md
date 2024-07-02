@@ -9,7 +9,7 @@ To work on to do list in python, basic understanding of python programming langu
 
 Steps to develop To-do List Project
 
-Import the Tkinter library
-Create to-do list application window
-Create application layout
-Define to do list functions
+1.Import the Tkinter library.
+2.Create to-do list application window.
+3.Create application layout.
+4.Define to do list functions.
